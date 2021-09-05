@@ -320,10 +320,10 @@ async function launchLighthouse (event, callback) {
 
     const [src] = source.filter(obj => obj.id === msg);
     const id = src.id;
-    const url = src.url;
+    const url = src.url;    
 
     log(`${id}: Received message to start with URL ${url}`);
-
+    
     const timeNow = new Date().getTime();
     const eventState = await checkEventState(id, timeNow);
     if (eventState.active) {
@@ -337,14 +337,14 @@ async function launchLighthouse (event, callback) {
 
     json.job_id = uuid;
 
-    await writeFile(`/tmp/${uuid}.json`, toNdjson(json));
+    await writeFile(`/tmp/${uuid}.json`, toNdjson(json));    
 
     log(`${id}: BigQuery job with ID ${uuid} starting for ${url}`);
-
+    
     return bigquery
       .dataset(config.datasetId)
       .table('reports')
-      .load(`/tmp/${uuid}.json`, metadata);
+      .load(`/tmp/${uuid}.json`, metadata);    
 
   } catch(e) {
     console.error(e);
@@ -379,4 +379,4 @@ if (process.env.NODE_ENV !== 'test') {
   }
 }
 
-module.exports.launchLighthouse = launchLighthouse;
+module.exports.launchLighthouseMobile = launchLighthouse;

@@ -1,0 +1,411 @@
+{
+  "source": [
+    {
+      "url": "https://www.wagner.dk/",
+      "id": "wagner.dk"
+    },
+    {
+      "url": "https://www.jacobworsoe.dk/",
+      "id": "jacobworsoe.dk"
+    },
+    {
+      "url": "https://www.nemlig.com/",
+      "id": "nemlig.com"
+    },
+    {
+      "url": "https://www.3.dk/",
+      "id": "3.dk"
+    },
+    {
+      "url": "https://www.arnoldbusck.dk/",
+      "id": "arnoldbusck.dk"
+    },
+    {
+      "url": "https://www.babysam.dk/",
+      "id": "babysam.dk"
+    },
+    {
+      "url": "https://www.bahne.dk/",
+      "id": "bahne.dk"
+    },
+    {
+      "url": "https://www.bang-olufsen.com/da",
+      "id": "bang-olufsen.com"
+    },
+    {
+      "url": "https://www.bauhaus.dk/",
+      "id": "bauhaus.dk"
+    },
+    {
+      "url": "https://www.bog-ide.dk/",
+      "id": "bog-ide.dk"
+    },
+    {
+      "url": "https://www.botex.dk/",
+      "id": "botex.dk"
+    },
+    {
+      "url": "https://www.br.dk/",
+      "id": "br.dk"
+    },
+    {
+      "url": "https://www.bygma.dk/",
+      "id": "bygma.dk"
+    },
+    {
+      "url": "https://www.companys.com/da-dk",
+      "id": "companys.dk"
+    },
+    {
+      "url": "https://www.elgiganten.dk/",
+      "id": "elgiganten.dk"
+    },
+    {
+      "url": "https://www.punkt1.dk/",
+      "id": "punkt1.dk"
+    },
+    {
+      "url": "https://www.femilet.dk/",
+      "id": "femilet.dk"
+    },
+    {
+      "url": "https://www.flugger.dk/",
+      "id": "flugger.dk"
+    },
+    {
+      "url": "https://www.fribikeshop.dk/",
+      "id": "fribikeshop.dk"
+    },
+    {
+      "url": "https://www.gamestop.dk/",
+      "id": "gamestop.dk"
+    },
+    {
+      "url": "https://www.garant.nu/",
+      "id": "garant.nu"
+    },
+    {
+      "url": "https://www.ginatricot.com/dk/start",
+      "id": "ginatricot.com"
+    },
+    {
+      "url": "https://www.glitter.dk/",
+      "id": "glitter.dk"
+    },
+    {
+      "url": "https://www2.hm.com/da_dk/index.html",
+      "id": "hm.com"
+    },
+    {
+      "url": "https://www.harald-nyborg.dk/",
+      "id": "harald-nyborg.dk"
+    },
+    {
+      "url": "https://www.helsam.dk/",
+      "id": "helsam.dk"
+    },
+    {
+      "url": "https://www.hifiklubben.dk/",
+      "id": "hifiklubben.dk"
+    },
+    {
+      "url": "https://www.humac.dk/",
+      "id": "humac.dk"
+    },
+    {
+      "url": "https://www.hunkemoller.dk/",
+      "id": "hunkemoller.dk"
+    },
+    {
+      "url": "https://www.ikea.com/dk/da/",
+      "id": "ikea.com"
+    },
+    {
+      "url": "https://illum.dk/",
+      "id": "illum.dk"
+    },
+    {
+      "url": "https://ilva.dk/",
+      "id": "ilva.dk"
+    },
+    {
+      "url": "https://www.imerco.dk/",
+      "id": "imerco.dk"
+    },
+    {
+      "url": "https://interflora.dk/",
+      "id": "interflora.dk"
+    },
+    {
+      "url": "https://www.intersport.dk/",
+      "id": "intersport.dk"
+    },
+    {
+      "url": "https://www.jackjones.com/dk/da/home",
+      "id": "jackjones.com"
+    },
+    {
+      "url": "https://www.jemogfix.dk/",
+      "id": "jemogfix.dk"
+    },
+    {
+      "url": "https://jysk.dk/",
+      "id": "jysk.dk"
+    },
+    {
+      "url": "https://www.kaufmann.dk/",
+      "id": "kaufmann.dk"
+    },
+    {
+      "url": "https://www.kop-kande.dk/",
+      "id": "kop-kande.dk"
+    },
+    {
+      "url": "https://www.louisnielsen.dk/",
+      "id": "louisnielsen.dk"
+    },
+    {
+      "url": "https://www.magasin.dk/",
+      "id": "magasin.dk"
+    },
+    {
+      "url": "https://www.matas.dk/",
+      "id": "matas.dk"
+    },
+    {
+      "url": "https://www.maxizoo.dk/",
+      "id": "maxizoo.dk"
+    },
+    {
+      "url": "https://message.dk/",
+      "id": "message.dk"
+    },
+    {
+      "url": "https://www.mr.dk/",
+      "id": "mr.dk"
+    },
+    {
+      "url": "https://www.nameit.com/dk/da/home",
+      "id": "nameit.com"
+    },
+    {
+      "url": "https://neye.dk/",
+      "id": "neye.dk"
+    },
+    {
+      "url": "https://www.normal.dk/",
+      "id": "normal.dk"
+    },
+    {
+      "url": "https://www.only.com/dk/da/home",
+      "id": "only.com"
+    },
+    {
+      "url": "https://www.davidsen.as/",
+      "id": "davidsen.as"
+    },
+    {
+      "url": "https://www.petworld.dk/",
+      "id": "petworld.dk"
+    },
+    {
+      "url": "https://www.pieces.com/dk/da/home",
+      "id": "pieces.com"
+    },
+    {
+      "url": "https://photocare.dk/",
+      "id": "photocare.dk"
+    },
+    {
+      "url": "https://www.pilgrim.dk/",
+      "id": "pilgrim.dk"
+    },
+    {
+      "url": "https://www.plantorama.dk/",
+      "id": "plantorama.dk"
+    },
+    {
+      "url": "https://www.power.dk/",
+      "id": "power.dk"
+    },
+    {
+      "url": "https://www.quint.dk/",
+      "id": "quint.dk"
+    },
+    {
+      "url": "https://www.sainttropez.com/da-dk",
+      "id": "sainttropez.com"
+    },
+    {
+      "url": "https://salling.dk/",
+      "id": "salling.dk"
+    },
+    {
+      "url": "https://www.samsoe.com/da/home",
+      "id": "samsoe.com"
+    },
+    {
+      "url": "https://www.selected.com/dk/da/home",
+      "id": "selected.com"
+    },
+    {
+      "url": "https://www.silvan.dk/",
+      "id": "silvan.dk"
+    },
+    {
+      "url": "https://www.skoringen.dk/",
+      "id": "skoringen.dk"
+    },
+    {
+      "url": "https://www.skousen.dk/",
+      "id": "skousen.dk"
+    },
+    {
+      "url": "https://www.sport24.dk/",
+      "id": "sport24.dk"
+    },
+    {
+      "url": "https://www.sportigan.dk/",
+      "id": "sportigan.dk"
+    },
+    {
+      "url": "https://sportmaster.dk/",
+      "id": "sportmaster.dk"
+    },
+    {
+      "url": "https://www.stark.dk/",
+      "id": "stark.dk"
+    },
+    {
+      "url": "https://stof2000.dk/",
+      "id": "stof2000.dk"
+    },
+    {
+      "url": "https://www.synoptik.dk/",
+      "id": "synoptik.dk"
+    },
+    {
+      "url": "https://www.telenor.dk/",
+      "id": "telenor.dk"
+    },
+    {
+      "url": "https://www.cbb.dk/",
+      "id": "cbb.dk"
+    },
+    {
+      "url": "https://www.telia.dk/privat/",
+      "id": "telia.dk"
+    },
+    {
+      "url": "https://www.thansen.dk/",
+      "id": "thansen.dk"
+    },
+    {
+      "url": "https://www.thiele.dk/",
+      "id": "thiele.dk"
+    },
+    {
+      "url": "https://www.toejeksperten.dk/",
+      "id": "toejeksperten.dk"
+    },
+    {
+      "url": "https://www.wunderwear.dk/",
+      "id": "wunderwear.dk"
+    },
+    {
+      "url": "https://www.xl-byg.dk/",
+      "id": "xl-byg.dk"
+    },
+    {
+      "url": "https://www.yousee.dk/",
+      "id": "yousee.dk"
+    },
+    {
+      "url": "https://www.zizzi.dk/",
+      "id": "zizzi.dk"
+    },
+    {
+      "url": "https://www.onskeborn.dk/",
+      "id": "onskeborn.dk"
+    },
+    {
+      "url": "https://hay.dk/da-dk",
+      "id": "hay.dk"
+    },
+    {
+      "url": "https://www.dsb.dk/",
+      "id": "dsb.dk"
+    },
+    {
+      "url": "https://dk.noanoa.com/",
+      "id": "noanoa.com"
+    },
+    {
+      "url": "https://stofa.dk/",
+      "id": "stofa.dk"
+    },
+    {
+      "url": "https://www.faktorfobi.dk/",
+      "id": "faktorfobi.dk"
+    },
+    {
+      "url": "https://www.proshop.dk/",
+      "id": "proshop.dk"
+    },
+    {
+      "url": "https://www.zalando.dk/",
+      "id": "zalando.dk"
+    },
+    {
+      "url": "https://coop.dk/",
+      "id": "coop.dk"
+    },
+    {
+      "url": "https://www.bilka.dk/",
+      "id": "bilka.dk"
+    },
+    {
+      "url": "https://www.saxo.com/dk",
+      "id": "saxo.com"
+    },
+    {
+      "url": "https://www.boozt.com/dk/da",
+      "id": "boozt.com"
+    },
+    {
+      "url": "https://www.hungry.dk/",
+      "id": "hungry.dk"
+    },
+    {
+      "url": "https://www.just-eat.dk/",
+      "id": "just-eat.dk"
+    },
+    {
+      "url": "https://www.coolshop.dk/",
+      "id": "coolshop.dk"
+    },
+    {
+      "url": "https://cdon.dk/",
+      "id": "cdon.dk"
+    },
+    {
+      "url": "https://www.wupti.com/",
+      "id": "wupti.com"
+    },
+    {
+      "url": "https://www.zooplus.dk/",
+      "id": "zooplus.dk"
+    }
+],
+  "projectId": "valid-unfolding-259112",
+  "pubsubTopicId": "launch-lighthouse-eu-mobile",
+  "datasetId": "lighthouse_eu",
+  "minTimeBetweenTriggers": 300000,
+  "gcs": {
+    "bucketName": "jacobworsoe-lighthouse-reports-eu-mobile"
+  },
+  "lighthouseFlags": {
+    "output": ["html", "csv"],
+    "emulatedFormFactor": "mobile"
+  }
+}
